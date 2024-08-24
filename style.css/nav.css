@@ -1,0 +1,101 @@
+@import url(./mid1.css);
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: CircularStd, sans-serif;
+}
+main{
+    height: 100vh;
+    width: 105%;
+    /* border: 2px solid; */
+    background-image: url(../images/bg1.png);
+    font-family: CircularStd, sans-serif;
+    z-index: 10;
+}
+#nav-bar{
+    /* border: 2px solid; */
+    height: 50px;
+    background: transparent;
+    position: absolute;
+    position: fixed;
+    z-index: 10;
+}
+
+#bar>img{
+    height: 50px;
+    position: absolute;
+    left: 7%;
+    position: fixed;
+}
+#nav-bar>button{
+    border: none;
+    height: 80px;
+    width: 130px;
+    font-size: 16px;
+    position: absolute;
+    top: 0.1%;
+    right: 0%;
+    background-color: #00eeff;
+    position: fixed;
+}
+#sub-nav{
+    /* border: 2px solid; */
+    height: inherit;
+    width: 60%;
+    margin-left: 27%;
+    position: absolute;
+    top: 0.1%;
+    color: rgb(255, 255, 255);
+    position: fixed;
+}
+#sub-nav ol{
+    height: auto;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+#home>h1{
+        font-size: 4em;
+        color: white;
+        position: absolute;
+        top: 3em;
+        left: 5%;
+}
+#home>h1+h1{
+    font-size: 4em;
+    color: white;
+    position: absolute;
+    top: 4.1em;
+    left: 31%;
+    color: #00eeff;
+}
+#home>p{
+    position: absolute;
+    top: 21.5em;
+    left: 5%;
+    color: white;
+}
+#home>button>img{
+    position: absolute;
+    left: 15%;
+}
+#home>button{
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    top: 25em;
+    left: 5%;
+    font-size: 18px;
+    padding-left: 2%;
+    word-spacing: 2px;
+    background-color: #00eeff;
+    border: none;
+}
+
+

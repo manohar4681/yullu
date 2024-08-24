@@ -1,0 +1,50 @@
+@import url(./mid3.css);
+
+#mid2{
+    height: 140vh;
+    /* border: 2px solid; */
+    background: #d7e0ea;
+}
+#mid2 ol{
+    /* border: 2px solid; */
+    height: 50px;
+    width: 800px;
+    margin-top: 8%;
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-evenly;
+    color: gray;
+}
+#mid2 ol:hover{
+    color: black;
+    cursor: pointer;
+}
+#mid2>h1{
+    color: white;
+    margin-top: 26%;
+    position: absolute;
+    margin-left: 16%;
+    font-size: 13em;
+}
+#mid2 p{
+    margin-top: 2%;
+    margin-left: 6.5%;
+    margin-right: 60%;
+    line-height: 1.5em;
+}
+#mid2 button{
+    font-size: 16px;
+    height: 50px;
+    width: 160px;
+    margin-top: 3%;
+    position: absolute;
+    left: 7%;
+    border: none;
+    background:  #00eeff;
+}
+#mid2 img{
+    position: absolute;
+    left: 40%;
+    top: 285%;
+    /* height: 500px; */
+}

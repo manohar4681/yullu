@@ -1,0 +1,80 @@
+@import url(./footer.css);
+
+#mid4>h1{
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 70%;
+}
+#mid4>h4{
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 70%;
+}
+.mid41{
+    border: 1px solid rgb(243, 243, 243);
+    height: 400px;
+    width: 500px;
+    line-height: 1.5em;
+    position: absolute;
+    left: 30%;
+}
+.mid41 p{
+    margin-left: 5%;
+}
+.img1{
+    position: absolute;
+    left: 5%;
+    margin-top: 1%;
+}
+.img2{
+    position: absolute;
+    left: 8%;
+    margin-top: 1%;
+}
+.img3{
+    position: absolute;
+    left: 11%;
+    margin-top: 1%;
+}
+.img4{
+    position: absolute;
+    left: 14%;
+    margin-top: 1%;
+}
+.img5{
+    position: absolute;
+    left: 17%;
+    margin-top: 1%;
+}
+.larrow{
+    position: absolute;
+    left: 13%;
+    margin-top: 20%;
+}
+.rarrow{
+    position: absolute;
+    left: 19%;
+    margin-top: 20%;
+}
+.line{
+    border: 2px solid;
+    width: 49.1px;
+    position: absolute;
+    left: 15.3%;
+    margin-top: 21%;
+    border-color: aqua;
+}
+.mid41 img{
+    position: absolute;
+    top: 76%;
+    left: 10%;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.mid41 figcaption{
+    position: absolute;
+    top: 83%;
+    left: 30%;
+    font-weight: bold;
+}

@@ -1,0 +1,107 @@
+@import url(./mid2.css);
+
+#mid1{
+    height: 150vh;
+    /* border: 2px solid; */
+    position: relative;
+}
+.video>video{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    height: 490px;
+}
+.girl>img{
+    height: 885px;
+    width: 400px;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.list ol li h3{
+    font-size: 18px;
+    position: absolute;
+    left: 48%;
+}
+.list ol li p{
+    font-size: 16px;
+    position: absolute;
+    left: 48%;
+}
+.list ol li img{
+    position: absolute;
+    left: 43%;
+}
+.list ol>h1{
+    font-size: 40px;
+    position: absolute;
+    top: 5%;
+    left: 43%;
+}
+.list ol li>img{
+    position: absolute;
+    left: 43%;
+    top: 18%;
+}
+.list ol li>h3{
+    position: absolute;
+    top: 18%;
+}
+.list ol li>p{
+    position: absolute;
+    top: 21%;
+    right: 35%;
+    line-height: 1.5em;
+}
+.list ol li+li>h3{
+    position: absolute;
+    top: 35%;
+}
+.list ol li+li>img{
+    position: absolute;
+    top: 35%;
+}
+.list ol li+li>p{
+    position: absolute;
+    top: 38%;
+    right: 35%;
+}
+.list ol li+li+li>img{
+    position: absolute;
+    top: 53%;
+}
+.list ol li+li+li>h3{
+    position: absolute;
+    top: 53%;
+}
+.list ol li+li+li>p{
+    position: absolute;
+    top: 56%;
+    right: 35%;
+}
+.list ol li+li+li+li>img{
+    position: absolute;
+    top: 68%;
+}
+.list ol li+li+li+li>h3{
+    position: absolute;
+    top: 68%;
+}
+.list ol li+li+li+li>p{
+    position: absolute;
+    top: 71%;
+    right: 35%;
+}
+.list ol li+li+li+li+li>img{
+    position: absolute;
+    top: 84%;
+}
+.list ol li+li+li+li+li>h3{
+    position: absolute;
+    top: 84%;
+}
+.list ol li+li+li+li+li>p{
+    position: absolute;
+    top: 87%;
+}
+

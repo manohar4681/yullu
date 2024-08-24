@@ -1,0 +1,121 @@
+@import url(./mid4.css);
+
+#mid3{
+    height: 140vh;
+    background: #f6fdff;
+}
+#mid3>h1{
+    font-size: 38px;
+    text-align: center;
+    position: relative;
+    top: 8%;
+}
+#sub-mid{
+    height: 570px;
+    width: 170vb;
+    margin: 10%  10% 10%;
+    overflow-x: scroll;
+    overflow-y:hidden;
+}
+#sub-mid div{
+    border: 1px solid rgb(224, 224, 224);
+    display:inline-flex;
+    justify-content: space-between;
+    width: 386px;
+    height: 570px;
+}
+#sub-mid div figcaption{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5% 10% 10%;
+}
+#sub-mid div p{
+    margin: 10% 10% 5%;
+    line-height: 1.5em;
+}
+.sub1 figure>img{
+    height: 250px;
+}
+.sub2{
+    height: 570px;
+    margin-left: 3%;
+    position: relative;
+    bottom: 15.8%;
+}
+.sub2 img{
+    height: 193px;   
+}
+.sub3{
+    height: 570px;
+    margin-left: 6%;
+    position: relative;
+    left: 49em;
+    bottom: 39.5em;
+}
+.sub3 img{
+    height: 216px;
+}
+.sub4{
+    height: 570px;
+    margin-left: 10%;
+    position: relative;
+    left: 45em;
+    bottom: 39.5em;
+}
+.sub4 img{
+    width: 385px;
+}
+.sub5{
+    height: 570px;
+    position: relative;
+    left: 106em;
+    bottom: 77.7em;
+}
+.sub5 img{
+    height: 216px;
+}
+.sub6{
+    height: 580px;
+    position: relative;
+    left:108em;
+    bottom: 75em;
+}
+.sub6 img{
+    height: 256px;
+}
+.sub7{
+    height: 570px;
+    position: relative;
+    left: 159em;
+    bottom: 113em;
+}
+.sub7 img{
+    height: 256px;
+}
+.sub8{
+    height: 570px;
+    position: relative;
+    left: 161em;
+    bottom: 114.7em;
+}
+.sub8 img{
+    height: 230px;
+}
+.sub9{
+    height: 570px;
+    position: relative;
+    left: 212em;
+    bottom: 150.5em;
+}
+.sub9 img{
+    height: 200PX;
+}
+.sub10{
+    height: 570px;
+    position: relative;
+    left: 214em;
+    bottom: 150.8em;
+}
+.sub10 img{
+    height: 192px;
+}
